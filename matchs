@@ -9,6 +9,16 @@
 "ateam": "TSG Hoffenheim",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/skysmixx.m3u8?md5=uyA8KZ2UHw29Z5shok8Ldg&expires=1702070490",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/bf29a1b839ce750cb309b3a065bd602e/1702088209136/xqispup/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -20,22 +30,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-572503_lhd.m3u8?sub_m3u8=true&auth_key=1702066503-0-0-1aea319600144ca20426f0260d689a6d&edge_slice=true&user_session_id=e016b5826e6ac8ee6a66955575694203",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-572503_lsd.m3u8?sub_m3u8=true&auth_key=1702066503-0-0-1aea319600144ca20426f0260d689a6d&edge_slice=true&user_session_id=e016b5826e6ac8ee6a66955575694203",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1702066668-0-0-290bc7752cfab9febd911045ae262d92",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1702066668-0-0-290bc7752cfab9febd911045ae262d92",
 "trylink": ""
 }
 ]
@@ -44,8 +54,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Napoli",
-"time": " 2:15 AM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "ateam": "Juventus",
 "link": [
