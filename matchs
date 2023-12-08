@@ -60,6 +60,26 @@
 "ateam": "Juventus",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch7/live/ch7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIzIDc6Mjg6MzYgUE0maGFzaF92YWx1ZT05SUUxRmdXL29DUjhJNXBkU0QrQ1ZRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://ed-b002.edgking.me/plyvivo/yoye7o1efu6u4udono6e/chunklist.m3u8",
+"trylink": "https://www.niaomea.me/sd0embed/SerieA"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s9.noshwsmkm.com:999/hls/bbtsp3.m3u8?md5=R8rDaiF1skVUEDTICeC4bw&expires=1702070957",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/8ae602f368a75d3e45c8db99d9465e73/1702088333542/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -71,22 +91,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?edge_slice=true&auth_key=1702067104-0-0-0e90fc84663ac0812c244152c64b4c80&user_session_id=ee92f4122a83c6060f9c20ecd4b5434f&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?edge_slice=true&auth_key=1702067104-0-0-0e90fc84663ac0812c244152c64b4c80&user_session_id=ee92f4122a83c6060f9c20ecd4b5434f&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1702067028-0-0-98ba59bfe84feaa1844926f1c4e6702d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1702067028-0-0-98ba59bfe84feaa1844926f1c4e6702d",
 "trylink": ""
 }
 ]
