@@ -9,6 +9,16 @@
 "ateam": "Al Taee",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_10.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/7e78c08d9bf11460a4c2bd1b67dc9a26/1702088053196/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
