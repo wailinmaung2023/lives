@@ -54,8 +54,8 @@
 "league": " Saudi Professional League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "hteam": "Al Riyadh",
-"time": " 12:30 AM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/582739_small.png",
 "ateam": "Al Nassr FC",
 "link": [
@@ -63,11 +63,6 @@
 "type": "English 1 FHD",
 "livelink": "https://hls.streambtw.com/live/stream_10.m3u8",
 "trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
 },
 {
 "type": "Vietnam HD",
