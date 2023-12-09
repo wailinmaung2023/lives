@@ -85,39 +85,39 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "hteam": "Lazio",
-"time": " 8:30 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "ateam": "Hellas Verona",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/bd43d92d94cd37ab030e68370e39773f/1702170089330/dyv7fis/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001702126911-0-0-34c36754330b2972ef7bce04fdcdd658",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?sub_m3u8=true&user_session_id=1517f82f2de841adabffc1c284fc8b0f&auth_key=1702129924-0-0-06ea001d0d8312fa82e2ca608744bf77&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?sub_m3u8=true&user_session_id=1517f82f2de841adabffc1c284fc8b0f&auth_key=1702129924-0-0-06ea001d0d8312fa82e2ca608744bf77&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=9ad7c7b26d18af9a0eb41b08aaf82000&txTime=6574b7f8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=9ad7c7b26d18af9a0eb41b08aaf82000&txTime=6574b7f8",
 "trylink": ""
 }
 ]
