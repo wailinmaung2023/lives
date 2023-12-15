@@ -1,12 +1,12 @@
 [
 {
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9977_small.png",
-"hteam": "Toulouse",
-"time": " 12:15 AM ",
+"league": " Saudi Professional League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
+"hteam": "Al-Wehda",
+"time": " 9:30 PM ",
 "date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
-"ateam": "Lask",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
+"ateam": "Al Hilal",
 "link": [
 {
 "type": "Vietnam HD",
@@ -41,13 +41,13 @@
 ]
 },
 {
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7978_small.png",
-"hteam": "Liverpool",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"ateam": "Union St.Gilloise",
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
+"hteam": "Werder Bremen",
+"time": " 2:00 AM ",
+"date": "2023-12-16",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+"ateam": "Borussia M'Gladbach",
 "link": [
 {
 "type": "Vietnam HD",
@@ -82,13 +82,13 @@
 ]
 },
 {
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10200_small.png",
-"hteam": "Maccabi Haifa",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185_small.png",
-"ateam": "Panathinaikos",
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
+"hteam": "Juventus",
+"time": " 2:15 AM ",
+"date": "2023-12-16",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"ateam": "Genoa",
 "link": [
 {
 "type": "Vietnam HD",
@@ -123,218 +123,13 @@
 ]
 },
 {
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-"hteam": "Villarreal",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"ateam": "Rennes",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lhd.m3u8?user_session_id=c883ad964fbd2ad621c939183702e4ec&edge_slice=true&sub_m3u8=true&auth_key=1702568044-0-0-032936b67dd31396049baecc7b8bb400",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lsd.m3u8?user_session_id=c883ad964fbd2ad621c939183702e4ec&edge_slice=true&sub_m3u8=true&auth_key=1702568044-0-0-032936b67dd31396049baecc7b8bb400",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"hteam": "FC Sheriff",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
-"ateam": "Roma",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?user_session_id=a8a917bcbe9aeef422064793216b4175&sub_m3u8=true&auth_key=1702568464-0-0-91525ce7a1252c2103aa6f2aa1560614&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?user_session_id=a8a917bcbe9aeef422064793216b4175&sub_m3u8=true&auth_key=1702568464-0-0-91525ce7a1252c2103aa6f2aa1560614&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7787_small.png",
-"hteam": "Servette",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9777_small.png",
-"ateam": "Slavia Prague",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"hteam": "Molde",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917_small.png",
-"ateam": "Bayer Leverkusen",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1702568704-0-0-b7bac51b741a8a266168975ec6f955fa&user_session_id=1b186b54eb8860ba2c3ea415802fe424",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1702568704-0-0-b7bac51b741a8a266168975ec6f955fa&user_session_id=1b186b54eb8860ba2c3ea415802fe424",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7981_small.png",
-"hteam": "Hacken",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8428_small.png",
-"ateam": "Qarabag",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8638_small.png",
-"hteam": "TSC Backa Topola",
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+"hteam": "Tottenham Hotspur",
 "time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/676140_small.png",
-"ateam": "Olympiacos",
+"date": "2023-12-16",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"ateam": "Nottingham Forest",
 "link": [
 {
 "type": "Vietnam HD",
@@ -369,13 +164,13 @@
 ]
 },
 {
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"hteam": "SC Freiburg",
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+"hteam": "Rayo Vallecano",
 "time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-"ateam": "West Ham United",
+"date": "2023-12-16",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+"ateam": "Osasuna",
 "link": [
 {
 "type": "Vietnam HD",
@@ -410,218 +205,13 @@
 ]
 },
 {
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
-"hteam": "AEK Athens",
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+"hteam": "Lyon",
 "time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8563_small.png",
-"ateam": "Ajax",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"hteam": "Marseille",
-"time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-"ateam": "Brighton",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2136_small.png",
-"hteam": "Sparta Prague",
-"time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10247_small.png",
-"ateam": "Aris Limassol",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"hteam": "Rangers",
-"time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
-"ateam": "Real Betis",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/4024_small.png",
-"hteam": "Atalanta",
-"time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"ateam": "Raków Częstochowa",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
-"hteam": "Sturm Graz",
-"time": " 2:30 AM ",
-"date": "2023-12-15",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10014_small.png",
-"ateam": "Sporting CP",
+"date": "2023-12-16",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+"ateam": "Monaco",
 "link": [
 {
 "type": "Vietnam HD",
