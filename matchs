@@ -3,29 +3,29 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "hteam": "Wolverhampton",
-"time": " 2:00 AM ",
-"date": "2023-12-28",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "ateam": "Brentford",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?sub_m3u8=true&user_session_id=75a4d22714d546540562536295e92580&auth_key=1703695626-0-0-9652fddf8dc82f300b432c2567d93918&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?sub_m3u8=true&user_session_id=75a4d22714d546540562536295e92580&auth_key=1703695626-0-0-9652fddf8dc82f300b432c2567d93918&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1703696030-0-0-2e25d9f40aa61c51829641e62caba59d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1703696030-0-0-2e25d9f40aa61c51829641e62caba59d",
 "trylink": ""
 }
 ]
@@ -34,29 +34,29 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "hteam": "Crystal Palace",
-"time": " 2:00 AM ",
-"date": "2023-12-28",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "ateam": "Chelsea",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?sub_m3u8=true&user_session_id=2d4bffe63d3d6949fe3917ab69cd4cd8&auth_key=1703695686-0-0-5926858c27759c3d6ead61f0e3f73ebd&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?sub_m3u8=true&user_session_id=2d4bffe63d3d6949fe3917ab69cd4cd8&auth_key=1703695686-0-0-5926858c27759c3d6ead61f0e3f73ebd&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1703696090-0-0-23bea71ada8c49ef418afef9c9927f85",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1703696090-0-0-23bea71ada8c49ef418afef9c9927f85",
 "trylink": ""
 }
 ]
@@ -65,19 +65,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "hteam": "Man City",
-"time": " 2:45 AM ",
-"date": "2023-12-28",
+"time": " live ",
+"date": "2:45 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "ateam": "Everton",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?user_session_id=58a0d89b8f1ba1b7dd30651eff0fbb34&edge_slice=true&auth_key=1703695866-0-0-1cb7db2318fa1b8f06904f0c41708b1b&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?user_session_id=58a0d89b8f1ba1b7dd30651eff0fbb34&edge_slice=true&auth_key=1703695866-0-0-1cb7db2318fa1b8f06904f0c41708b1b&sub_m3u8=true",
 "trylink": ""
 },
 {
